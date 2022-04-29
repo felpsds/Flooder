@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 20px;
+    color: #ffffff;
+    font-size: 13px;
+    font-family: 'Pangolin', cursive;
+    background: #202124;
+
+}
+#numero{
+	font-family: 'Pangolin', cursive;
+	margin-bottom: 10px;
+	
+}
+#msg{
+	font-family: 'Pangolin', cursive;
+	margin-bottom: 10px;
+}
+input{
+    border:0.9px solid rgb(0, 0, 0, 0.1);
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0, 0.1);
+    backdrop-filter:blur(25px);
+    margin:10px;
+    padding: 10px;
+    border-right: rgb(0, 0, 0, 0.1);
+    border-bottom: rgb(0, 0, 0, 0.1);
+    border-left: rgb(0, 0, 0, 0.1);
+    border-top: rgb(0, 0, 0, 0.1);
+    color: #ffffff;
+}
+#tamanho{
+	height: 160px;
+	width: 200px;
+}
+button{
+    width: 60px;
+    height: 30px;
+    border:0.9px solid rgb(0, 0, 0, 0.1);
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0, 0.1);
+    backdrop-filter:blur(25px);
+    border-right: rgb(0, 0, 0, 0.1);
+    border-bottom: rgb(0, 0, 0, 0.1);
+    border-left: rgb(0, 0, 0, 0.1);
+    border-top: rgb(0, 0, 0, 0.1);
+    color: #ffffff;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position:fixed;
+    text-align:center;
+}
+button:hover{
+    width: 65px;
+    height: 35px;
+    border:0.9px solid rgb(0, 0, 0, 0.1);
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0, 0.1);
+    backdrop-filter:blur(25px);
+    border-right: rgb(0, 0, 0, 0.1);
+    border-bottom: rgb(0, 0, 0, 0.1);
+    border-left: rgb(0, 0, 0, 0.1);
+    border-top: rgb(0, 0, 0, 0.1);
+    color: #ffffff;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position:fixed;
+    text-align:center;
+}
+
